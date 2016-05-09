@@ -18,6 +18,7 @@ Here are a couple of hosts that we or our users confirmed work fine with Version
  - [Uberspace](https://uberspace.de/) – hosting space in Germany (Git 1.7 pre-installed, upgradable to 1.9+) 
  - [Pair Shared Hosting](https://www.pair.com/hosting/shared/) – by pair Networks
  - [Elbia Hosting (SK)](http://www.elbiahosting.sk/) – Slovak hosting company
+ - [RoseHosting](https://www.rosehosting.com/) – Managed Linux VPS hosting
 
 <div class="note">
   <p><strong>Help us improve this list</strong></p>
